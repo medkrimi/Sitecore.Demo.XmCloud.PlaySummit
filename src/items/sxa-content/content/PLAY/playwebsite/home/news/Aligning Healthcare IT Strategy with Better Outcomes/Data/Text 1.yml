@@ -1,0 +1,19 @@
+﻿---
+ID: "bd5b7762-064b-4141-945f-a0e5880b3eb3"
+Parent: "90daa07f-784a-4c67-903f-d379304dd18a"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/PLAY/playwebsite/home/news/Aligning Healthcare IT Strategy with Better Outcomes/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e72f7dd-33e7-4850-9f42-4f3eecd1f1b7"

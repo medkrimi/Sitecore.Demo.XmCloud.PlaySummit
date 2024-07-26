@@ -1,0 +1,13 @@
+﻿---
+ID: "90daa07f-784a-4c67-903f-d379304dd18a"
+Parent: "942b237a-a2e5-40a0-91d0-6e9e358671e3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/home/news/Aligning Healthcare IT Strategy with Better Outcomes/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22253f72-e134-41a3-95d7-f72bebd7e6d9"
