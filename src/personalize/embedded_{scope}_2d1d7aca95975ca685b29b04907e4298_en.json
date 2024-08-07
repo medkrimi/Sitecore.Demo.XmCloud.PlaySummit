@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/5746ec5f-65f6-4d5f-96c5-31cfc7716113",
   "ref": "5746ec5f-65f6-4d5f-96c5-31cfc7716113",
   "name": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
-  "modifiedByRef": "auth0|62d57546011dc8d027e13a5a",
-  "modifiedAt": "2024-07-24T15:10:03.192Z",
-  "revision": 1,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-08-06T00:52:15.388Z",
+  "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_2d1d7aca95975ca685b29b04907e4298_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -36,5 +36,6 @@
     "baseValue": 0.15,
     "minimumDetectableDifference": 0.02,
     "confidenceLevel": 0.95
-  }
+  },
+  "notificationEnabled": false
 }

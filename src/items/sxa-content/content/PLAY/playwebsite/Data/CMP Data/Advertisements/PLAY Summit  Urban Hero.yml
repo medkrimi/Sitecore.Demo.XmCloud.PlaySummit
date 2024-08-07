@@ -16,6 +16,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "69e8418c-5f11-40a8-9c0d-9e5eacc1229e"
       Hint: Hero
       Value: |
@@ -25,7 +28,7 @@ Languages:
       Value: "READY | STEADY | PLAY!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d9820e1-a995-4f8e-83b4-92aa00866f29"
+      Value: "f08fa932-e1fb-4831-87e9-12294ef869d6"
     - ID: "957519d5-5c6b-40c0-b462-b1dac8f12a03"
       Hint: Eyebrow
       Value: Sports and Recreation Expo
