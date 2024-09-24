@@ -23,6 +23,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "087528fd-b211-4715-aca0-cbe90275951b"
       Hint: Featured
       Value: 1
@@ -40,7 +43,7 @@ Languages:
       Value: "{01E09652-ABD7-4BB0-AD96-E609966330BD}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "349123d5-4927-4148-a10b-b4839f47ceb8"
+      Value: "5a991ab1-d81f-43fb-acdb-1a541ad4f42c"
     - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
       Hint: Company
       Value: Solstice
@@ -72,4 +75,4 @@ Languages:
     - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
       Hint: Picture
       Value: |
-        <image stylelabs-content-id="49198" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49198/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/3625d965b17b414c8701baabd2061e38?v=2e088ca3&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Alex Mena - No background" height="3358" width="3358" />
+        <image src="https://mohk-play-summit.sitecoresandbox.cloud/api/public/content/fe31f4c580cc414099672cc7398dda26?v=dd8bd161" dam-id="AVk88BuqZkqhFAj_Em4Tfg" width="200" height="200" alt="Chris Williams - No background" dam-content-type="Image" thumbnailsrc="https://mohk-play-summit.sitecoresandbox.cloud/api/gateway/49399/thumbnail" />
