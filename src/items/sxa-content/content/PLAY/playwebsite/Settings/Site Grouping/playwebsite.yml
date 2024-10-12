@@ -10,6 +10,9 @@ SharedFields:
 - ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
   Hint: FieldLanguageFallback
   Value: 1
+- ID: "8700cd8f-83cc-42ba-aa78-65bccab44fc7"
+  Hint: GenerateThumbnails
+  Value: 
 - ID: "8c436235-b85d-4097-89cf-d5a4fa70cc0a"
   Hint: ItemLanguageFallback
   Value: 1
@@ -38,4 +41,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f37ab100-0811-4f04-974b-d570dda45eb8"
+      Value: "3b2629d7-5ef0-4ba6-b764-75875bd76776"
